@@ -1,7 +1,7 @@
 return {
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
-  "editorconfig/editorconfig-vim"
+  "editorconfig/editorconfig-vim",
   -- "andweeb/presence.nvim",
   -- {
   --   "ray-x/lsp_signature.nvim",
