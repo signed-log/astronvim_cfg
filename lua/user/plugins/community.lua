@@ -8,7 +8,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.programming-language-support.csv-vim" }
+  { import = "astrocommunity.programming-language-support.csv-vim" },
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }

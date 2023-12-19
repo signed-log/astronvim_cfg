@@ -99,6 +99,7 @@ return {
       },
       pattern = {
         [".*##.*"] = "bash",
+        [".*.nu"] = "javascript"
       },
     }
   end,
